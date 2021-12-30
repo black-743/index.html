@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: white;
+  
+    font-size: "Arial";
+}
+a
+{
+    cursor: pointer;
+    text-decoration: none;
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 50px;
+    z-index: 10;
+}
+header nav
+{
+    display: flex;
+    margin-right: 40px;
+} 
+header nav li
+{
+    padding-left: 10px;
+}
+header h2
+{
+    margin-left: 25px;
+}
+video
+{
+    margin-top: 80px;
+    
+}
+footer
+{
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    height: 125px;
+}
+    
+p 
+{
+    color: black;
+}
+ul
+{
+    
+}
